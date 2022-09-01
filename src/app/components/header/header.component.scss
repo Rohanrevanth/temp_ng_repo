@@ -1,0 +1,24 @@
+.header {
+    // width: 99%;
+    display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: #acccef;
+    align-items: right;
+    padding: 5px;
+    margin-bottom: 25px;
+}
+
+.lite-blue {
+    background-color: #acccef;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+// button {
+//     color: rgb(88, 88, 93);
+// }
